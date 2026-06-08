@@ -227,11 +227,3 @@ Medical-Shop-B2B
 
 ---
 
-# 👨‍💻 Developed By
-
-**Raviraj Choudhari**
-
-Android Developer  
-B2B Application Developer
-
----
